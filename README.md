@@ -13,7 +13,7 @@ In this project, we will develop a machine learning model that can predict custo
  gösterir.
 
  21 Değişken 7043 Gözlem 977.5 KB
-
+"""
 ##### CustomerId  :  Müşteri İd’si
 ##### Gender  :  Cinsiyet
 ##### SeniorCitizen  :  Müşterinin yaşlı olup olmadığı (1, 0)
@@ -34,4 +34,4 @@ In this project, we will develop a machine learning model that can predict custo
 ##### PaymentMethod  :  Müşterinin ödeme yöntemi (Elektronik çek, Posta çeki, Banka havalesi (otomatik), Kredi kartı (otomatik))
 ##### MonthlyCharges  :  Müşteriden aylık olarak tahsil edilen tutar
 ##### TotalCharges  :  Müşteriden tahsil edilen toplam tutar
-##### Churn  :  Müşterinin kullanıp kullanmadığı (Evet veya Hayır)
+##### Churn  :  Müşterinin kullanıp kullanmadığı (Evet veya Hayır)"""
