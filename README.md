@@ -15,7 +15,9 @@ In this project, we will develop a machine learning model that can predict custo
  21 Değişken 7043 Gözlem 977.5 KB
 
 **CustomerId  :**  Müşteri İd’si
+
 **Gender  :**  Cinsiyet
+
 ##### SeniorCitizen  :  Müşterinin yaşlı olup olmadığı (1, 0)
 ##### Partner  :  Müşterinin bir ortağı olup olmadığı (Evet, Hayır)
 ##### Dependents  :  Müşterinin bakmakla yükümlü olduğu kişiler olup olmadığı (Evet, Hayır
